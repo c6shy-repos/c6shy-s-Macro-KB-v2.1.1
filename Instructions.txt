@@ -1,0 +1,53 @@
+						<Welcome to  c6shy's AutoHotkeySript.AHK>
+
+
+
+							{How To Install AutoHotKey}
+1: Extract the file either using, Windows extract, or WinRAR.
+2: install AutoHotKey from https://www.autohotkey.com
+3: Open the AutoHotKey setup you just downloaded (you don't have to open it, only have it installed)
+	(if its prompts you to install an older version, pls accept it.)
+
+
+
+
+							   {How to open script}
+
+1: double click the script I just made. It wont open up anything but in game it will work
+
+
+
+
+						 	{How to save custom scripts}
+
+1: Make your script
+2: Ctrl+Shift+S to save as(only do this once, every other time you save only do Ctrl+S)
+3: the dropdown bar underneath where it says files name, MAKE SURE TO MAKE IT ALL FILES. If you don't it will not save as a AHK file.
+4: Name it whatever you want as long as there is an .ahk at the end.(if the file type is not selected as: all, then it will show up as .ahk.txt which is what we don't want.
+5: If done correctly it should show a giant H on the file icon.
+5: double click the file, and in the background it will run. (it will not open up AutoHotKey fully so you will not see it in taskbar)
+
+
+
+
+							        {How to use?}
+	Hold F1 to run script
+
+	Position your mouse over the Area
+
+	Press f3 to exit the script
+
+	
+
+								   {Enjoy!}
+
+
+			
+ 						            ________      .__           
+ 						     ____  /  _____/ _____|  |__ ___.__.
+						    _/ ___\/   __  \ /  ___/  |  <   |  |
+						    \  \___\  |__\  \\___ \|   Y  \___  |
+						     \___  >\_____  /____  >___|  / ____|
+  						 	 \/       \/     \/     \/\/     
+
+

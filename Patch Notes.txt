@@ -1,0 +1,18 @@
+								  					      {Patch Notes}
+		(Full screen the notepad to make it look pretty)
+												Version: 2.1.1 6/20/25 3:29:PM
+													-Added GitHub button
+													-Added program to github
+											 ________________________________________________
+											
+												Version: 2.0.1 6/19/25
+													-Made Gui
+													-Made Emergency Stop button
+													-Added text/picture
+											   ________________________________________________
+													(Known issues/workarounds)
+										-Sometimes when letting go of F1(or whatever you changed it to if needed be)
+									    
+									    It would still be clicking. = If you click F1(or your custom keybind) it will stop..
+												If need be, you can hit the Emergency Close button.
+                                                                                _________________________________________________________________________________
